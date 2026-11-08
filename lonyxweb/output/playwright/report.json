@@ -1,0 +1,60 @@
+{
+  "browser": "Chromium instalado no ambiente",
+  "date": "2026-11-08",
+  "suites": [
+    {
+      "checks": 29,
+      "results": [
+        "Filtro Websites: um projeto",
+        "Filtro Aplicativos: Orbit",
+        "Filtro Sistemas: Nexus",
+        "Filtro Todos: três projetos",
+        "Modal de projeto abre",
+        "Modal fecha com Escape",
+        "Plano preenche a seleção de manutenção",
+        "Validação apresenta erros junto aos campos",
+        "Foco vai para primeiro campo inválido",
+        "Feedback esclarece que nada foi enviado",
+        "Download do briefing funciona",
+        "Rota /entrar abre corretamente",
+        "Rota /privacidade abre corretamente",
+        "Rota /termos abre corretamente",
+        "Vídeo avança pelo scroll e permanece pausado",
+        "Vídeo retrocede com scroll reverso",
+        "Vídeo mantém o quadro quando o scroll para",
+        "Menu mobile disponível",
+        "Menu mobile abre",
+        "Menu fecha após navegação",
+        "Sem overflow horizontal em 375px",
+        "Sem overflow horizontal em 390px",
+        "Sem overflow horizontal em 768px",
+        "Sem overflow horizontal em 1024px",
+        "Sem overflow horizontal em 1440px",
+        "Mobile usa alternativa leve sem WebGL",
+        "Redução de movimento remove trecho longo de scroll",
+        "Redução de movimento mantém primeiro quadro",
+        "Sem erros de execução JavaScript nas interações"
+      ],
+      "errors": [],
+      "videoEvidence": {
+        "forward": 5.251111,
+        "reverse": 2.297361
+      }
+    },
+    {
+      "checks": 6,
+      "results": [
+        "Indicador de carregamento desaparece após vídeo pronto",
+        "Todos os links de âncora apontam para seções existentes",
+        "Notebook 3D renderizado no desktop",
+        "Serviço expande pelo controle nativo",
+        "Vídeo também avança e retrocede no viewport mobile",
+        "Menu mobile fecha com Escape"
+      ],
+      "mobileVideo": {
+        "forward": 5.488966,
+        "reverse": 1.646689
+      }
+    }
+  ]
+}
